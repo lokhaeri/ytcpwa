@@ -26,7 +26,8 @@ const YoutubeIframe = ({ video }) => {
       height="315"
       src={`https://www.youtube.com/embed/${video}?controls=0&modestbranding=1&rel=0&playsinline=0`}
       frameborder="0"
-      allowfullscree
+      allowfullscreen
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     ></iframe>
   )
 }
