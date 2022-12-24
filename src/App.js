@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>List of videos</h1>
-        <img src={logo} className="App-logo" alt="logo" />
+        <h2>Fixies</h2>
+        <iframe height="315" src="https://www.youtube.com/embed/bocTpwBhch4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Fixies</h2>
+
       </header>
     </div>
   );
