@@ -7,7 +7,11 @@ const videoList = [
   'NH61pgAJn6c',
   'jWfOxV7mvIs',
   'pQ9GnDx4Ozk',
-  'JOA7k3ZyPQI'
+  'JOA7k3ZyPQI',
+  'J0xo0jIH-cQ',
+  'GLjnjSlh5Ao',
+  'ddTd7p8BcBU',
+  'vS6JbYbq7x8'
 ]
 
 const YoutubeIframe = ({ video }) => {
