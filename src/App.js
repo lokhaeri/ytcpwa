@@ -19,8 +19,6 @@ const videoList = [
   'oZzgfpYyP_I',
   'UUpW67zKRGA',
   'xxWHHydExo4',
-  'ilVsjFeNqLQ',
-  '6ZH5ylzWbxw',
   'pCEF3eVMcWA',
   '2hDKKZrVKm4',
   '9_WBQISVHnw',
