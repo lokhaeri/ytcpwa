@@ -21,7 +21,13 @@ const videoList = [
 
 const YoutubeIframe = ({ video }) => {
   return (
-    <iframe width="100%" height="315" src={`https://www.youtube.com/embed/${video}`} frameborder="0" allowfullscreen></iframe>
+    <iframe
+      width="100%"
+      height="315"
+      src={`https://www.youtube.com/embed/${video}?controls=0&modestbranding=1&rel=0&playsinline=0`}
+      frameborder="0"
+      allowfullscree
+    ></iframe>
   )
 }
 
