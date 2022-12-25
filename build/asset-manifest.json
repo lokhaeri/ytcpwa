@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ytcpwa/static/css/main.29cd398c.css",
-    "main.js": "/ytcpwa/static/js/main.27a420ad.js",
+    "main.js": "/ytcpwa/static/js/main.cb364ece.js",
     "static/js/787.28cb0dcd.chunk.js": "/ytcpwa/static/js/787.28cb0dcd.chunk.js",
     "service-worker.js": "/ytcpwa/service-worker.js",
     "index.html": "/ytcpwa/index.html",
     "main.29cd398c.css.map": "/ytcpwa/static/css/main.29cd398c.css.map",
-    "main.27a420ad.js.map": "/ytcpwa/static/js/main.27a420ad.js.map",
+    "main.cb364ece.js.map": "/ytcpwa/static/js/main.cb364ece.js.map",
     "787.28cb0dcd.chunk.js.map": "/ytcpwa/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29cd398c.css",
-    "static/js/main.27a420ad.js"
+    "static/js/main.cb364ece.js"
   ]
 }
